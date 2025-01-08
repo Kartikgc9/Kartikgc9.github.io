@@ -13,10 +13,3 @@ TSS Portfolio is an example portfolio website built with HTML, CSS, and Bootstra
 - CSS
 - Bootstrap
 
-## Getting Started
-
-To get a local copy of the project up and running, follow these steps:
-
-1. Clone the repository:
-   ```shell
-   git clone https://github.com/Yuvraj3905/tss-portfolio.git
