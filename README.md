@@ -13,10 +13,6 @@ TSS Portfolio is an example portfolio website built with HTML, CSS, and Bootstra
 - CSS
 - Bootstrap
 
-## Preview
-
-You can preview the TSS Portfolio website [here](https://yuvraj3905.github.io/tss-portfolio/).
-
 ## Getting Started
 
 To get a local copy of the project up and running, follow these steps:
